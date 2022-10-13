@@ -17,6 +17,12 @@ namespace Helo
             int b=30;
             Console.WriteLine(a + b);
 
+            string name = "Arif Hossain";
+            string uName = "Canadian University of Bangladesh";
+            decimal salary = 500000M;
+
+
+
             Console.ReadKey();
             
         }
